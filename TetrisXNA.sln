@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TetrisXNA", "TetrisXNA\TetrisXNA\TetrisXNA.csproj", "{437A97B9-A17A-4033-9546-4DF166B53004}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TetrisXNAContent", "TetrisXNA\TetrisXNAContent\TetrisXNAContent.contentproj", "{3FB184A2-747F-4B04-A3C2-68FE0BCE9EF3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{437A97B9-A17A-4033-9546-4DF166B53004}.Debug|x86.ActiveCfg = Debug|x86
+		{437A97B9-A17A-4033-9546-4DF166B53004}.Debug|x86.Build.0 = Debug|x86
+		{437A97B9-A17A-4033-9546-4DF166B53004}.Release|x86.ActiveCfg = Release|x86
+		{437A97B9-A17A-4033-9546-4DF166B53004}.Release|x86.Build.0 = Release|x86
+		{3FB184A2-747F-4B04-A3C2-68FE0BCE9EF3}.Debug|x86.ActiveCfg = Debug|x86
+		{3FB184A2-747F-4B04-A3C2-68FE0BCE9EF3}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		VisualSVNWorkingCopyRoot = .
+	EndGlobalSection
+EndGlobal
